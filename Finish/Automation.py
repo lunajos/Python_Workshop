@@ -21,7 +21,7 @@ for root, dirs, files in os.walk("./Data/ovpn_src/", topdown=True):
         if not os.path.isdir(os.path.join(destination, country, protocol)):
             os.mkdir(os.path.join(destination, country, protocol))
 
-        count +=1
+        count += 1
         shutil.copyfile(source, os.path.join( destination, country, protocol, name))
 
 print("Successfully Oganized " + str(count) + " Files")
