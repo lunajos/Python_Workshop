@@ -10,10 +10,10 @@
 
 # Extract protocol
 
+# Define Destination and Source Locations
+
 # Create Country Directory if not exists
 
 # Create Protocol Directory if not exists
-
-# Get New location
 
 # Move or Copy file into new location
