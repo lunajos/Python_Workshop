@@ -1,5 +1,3 @@
-#! path/to/runtime
-
 ##############
 # Data Types #
 ##############
@@ -14,7 +12,6 @@
 # Tuple - ()
 # Set   - {}
 # List  - []
-# Array - ?!
 
 
 print('#############################################################')
@@ -33,7 +30,11 @@ booleanFalse = False
 booleanTrue = True
 
 tupling = ('test', 'ing', 'tuple')
-setting = {}
+setting = {
+  "name": "Pat",
+  "age": 25,
+  "height": "68"
+}
 listing = [1, 2, 3, 4, 5, 6]
 
 

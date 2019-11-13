@@ -1,5 +1,3 @@
-#! path/to/runtime
-
 ##############
 # Data Types #
 ##############
