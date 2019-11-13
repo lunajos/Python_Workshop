@@ -42,6 +42,12 @@ Wednesday November 13th, 5:30-7:30 pm
   - Modules/Libraries
   - Error Handling
 
+**Programming Project 3**
+
+- `Project_03.py`
+  - Import Project_02 
+  - Use Project_02's Functionality
+
 **Automating Big things**
 
 - `Automation.py`
