@@ -10,14 +10,12 @@ Wednesday November 13th, 5:30-7:30 pm
 
 - Introduction
 - Programming Project 1
-	- Foundation
+	- Foundation and Basic
 - Programming Project 2
-	- 	Getting ready for Automating
+	- 	Object Oriented
 - Automating Big things
 	- 	Final Project
 - Conclusion
-- Assessment
-
 
 
 ## Content
@@ -28,13 +26,6 @@ Wednesday November 13th, 5:30-7:30 pm
 - When to use Python
 - When not to use Python
 
-**Understanding and setting up environments:**
-
-- Installing from:  [https://www.python.org/downloads/](https://www.python.org/downloads/)
-- Running
-    - CLI
-    - IDE
-
 **Programming Project 1**
 
 - `Project_01.py`
@@ -42,8 +33,6 @@ Wednesday November 13th, 5:30-7:30 pm
   - Datatypes
   - Comments
   - Control Flows
-  - Statements
-  - Operators
 
 **Programming Project 2**
 
