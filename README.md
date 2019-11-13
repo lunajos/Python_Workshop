@@ -1,24 +1,22 @@
 # Python Workshop
 
-Wednesday December 12th, 4:00-6:30 pm
+Wednesday November 13th, 5:30-7:30 pm
 
 ## Requirements
 
 - No prior programming experience required (although some understanding some concepts will be very helpful)
-- Understand CSV Format
 
 ## Overview 
 
-- Introduction         			(*FROM to UNTIL*)
-- Setting Environments        (*FROM to UNTIL*)
-- Programming Project 1       (*FROM to UNTIL*)
+- Introduction
+- Programming Project 1
 	- Foundation
-- Programming Project 2       (*FROM to UNTIL*)
+- Programming Project 2
 	- 	Getting ready for Automating
-- Automating Big things	       (*FROM to UNTIL*)
+- Automating Big things
 	- 	Final Project
-- Conclusion         			(*FROM to UNTIL*)
-- Assessment        			(*FROM to UNTIL*)
+- Conclusion
+- Assessment
 
 
 
@@ -49,24 +47,16 @@ Wednesday December 12th, 4:00-6:30 pm
 
 **Programming Project 2**
 
-- `Project_01.py`
+- `Project_02.py`
   - OOP/OOD
   - Classes
   - Modules/Libraries
   - Error Handling
-  - File System
 
 **Automating Big things**
 
 - `Automation.py`
-  - CLI Arguments
-  - Piping and passing values
   - File System
-  - Data Manipulation
-
-Assessment
-
-- Handout
 
 Conclusions
 
