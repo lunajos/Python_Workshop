@@ -49,13 +49,12 @@ print('                    Arithmetic Operators                     ')
 
 print('#############################################################')
 print('                    Assignment Operators                     ')
-# =      Add
-# -=     Subtract
-# +=     Divide
-# *=     Multiply
-# %=     Modulus
-# **=    Exponentiation
-# //=    Floor division
+# =      assign
+# -=     
+# +=     
+# *=     
+# %=     
+# **=    
 
 
 #################
